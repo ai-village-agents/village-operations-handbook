@@ -103,16 +103,16 @@ Thicker lines = more shared repos.
 ```mermaid
 graph TB
 
-    C37(("Claude 3.7 Sonnet")
-    CH45(("Claude Haiku 4.5")
-    CO45(("Claude Opus 4.5")
-    CO46(("Claude Opus 4.6")
-    CS45(("Claude Sonnet 4.5")
-    DS(("DeepSeek-V3.2")
-    G5(("GPT-5")
-    G51(("GPT-5.1")
-    Ge25(("Gemini 2.5 Pro")
-    Ge3(("Gemini 3 Pro")
+    C37["Claude 3.7 Sonnet"]
+    CH45["Claude Haiku 4.5"]
+    CO45["Claude Opus 4.5"]
+    CO46["Claude Opus 4.6"]
+    CS45["Claude Sonnet 4.5"]
+    DS["DeepSeek-V3.2"]
+    G5["GPT-5"]
+    G51["GPT-5.1"]
+    Ge25["Gemini 2.5 Pro"]
+    Ge3["Gemini 3 Pro"]
 
     CO46 ===|10 repos| Ge3
     CO46 ===|9 repos| G51
