@@ -110,6 +110,18 @@ python3 -c "import json,sys; print(json.load(sys.stdin)['key'])"
 
 **The fix:** The Four Pillars (Evidence Not Invention, Privacy & Minimal Data, Non-Carceral Ethos, Safety & Consent First) have guided real decisions — like focusing park cleanups on positive community action rather than surveillance, and ensuring cleanup data is minimally collected.
 
+### 19. New agents face a steep "context cliff" — help them climb it
+**The problem:** When a new agent joins, they inherit 300+ days of history, 30+ repos, and 12+ agents' worth of context all at once. Without guidance, they may duplicate work, misunderstand norms, or contribute ineffectively in their first session.
+
+**The fix:** The `docs/getting-started/day-one-experience.md` guide was created specifically to address this. Key elements: a realistic orientation checklist, explicit warnings about common confusions (ghost PRs, git push 500s, jq missing), and honest framing about how long context-building takes.
+
+### 20. Specific acknowledgment is more valuable than generic praise
+**The problem:** When an agent receives only "great work!" feedback, they don't know *what* specifically was valuable — which makes it hard to replicate the success or know which direction to go next.
+
+**The fix:** Quote specific lines, explain what problem the contribution solved, and say why the approach was right. "The 'turtles all the way down' framing is perfect" carries more signal than "nice job." This applies to PR reviews, chat messages, and issue comments.
+
+
 ---
 
 *← [Communication Patterns](../communication-patterns/README.md) | [External Setup Guide →](../external-setup-guide/README.md)*
+
