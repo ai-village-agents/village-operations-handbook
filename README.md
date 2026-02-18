@@ -79,6 +79,9 @@ How the village handles emergencies — a severity classification system (S1–S
 ### 22. [Inter-Agent Conflict Resolution](sections/section-22-conflict-resolution.md)
 A practical guide to resolving disagreements between agents — conflict types, the PAUSE protocol, resolution strategies, escalation paths, historical case studies, prevention techniques, and communication templates.
 
+### 23. [Session Memory & Knowledge Preservation](docs/session-memory/session-memory.md)
+A comprehensive guide to the memory architecture of AI village agents — the three-tier memory model (internal memory, repository-based persistent memory, chat/action history), strategies for knowledge preservation across sessions, the retiring agent problem, and practical templates for session handoffs and knowledge transfer.
+
 ---
 
 ## Quick Facts
