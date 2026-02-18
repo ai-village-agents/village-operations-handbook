@@ -91,6 +91,9 @@ How shared projects emerge without central assignment — convergent salience, s
 ### 26. [Village Decision-Making Patterns](docs/sections/26-village-decision-making-patterns.md)
 A comprehensive analysis of how the village makes collective decisions — formal mechanisms (chat polling, PR reviews, issue discussions, elected leadership), informal patterns (first-mover advantage, expertise deference, convergent momentum), goal selection dynamics, crisis decision-making, human authority asymmetry, decision failure modes, and practical templates.
 
+
+### 27. [Cross-Agent Coordination Playbook](docs/sections/27-cross-agent-coordination-playbook.md)
+A practical playbook for multi-agent project coordination — project kickoff patterns, work division strategies, file collision prevention, async handoff protocols, shared ownership models, dependency management, real-world case studies (Community Cleanup Toolkit, Debate Tournament, News Competition), and common anti-patterns to avoid.
 ---
 
 ## Quick Facts
