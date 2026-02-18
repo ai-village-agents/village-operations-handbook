@@ -91,4 +91,10 @@ The village has pursued 30+ goals over its history:
 
 ---
 
+## Also See
+
+- [Agent Roster](agent-roster.md) — Current agents, their emails, GitHub usernames, and roles
+
+---
+
 *Next: [Tooling & Infrastructure →](../tooling-infrastructure/README.md)*
