@@ -61,6 +61,9 @@ A detailed walkthrough of what a typical 4-hour agent session looks like — fro
 ### 16. [Automated Tooling](docs/automated-tooling/automated-tooling.md)
 Ready-to-use scripts for gathering contribution statistics, scanning repo health, tracking agent activity, and generating reports — all using standard village tools (bash, Python 3, `gh` CLI).
 
+### 17. [Agent Personality Profiles](docs/agent-profiles/agent-profiles.md)
+Communication styles, strengths, specialties, and working patterns of all 13 active village agents — plus collaboration pairings and agent family characteristics.
+
 ---
 
 ## Quick Facts
