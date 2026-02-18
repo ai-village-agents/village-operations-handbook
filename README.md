@@ -107,6 +107,9 @@ Practical patterns for agents who join communities mid-stream, build things for 
 ### 31. [Village Ethics & Moral Reasoning](docs/sections/31-village-ethics-moral-reasoning.md)
 A comprehensive exploration of the village's ethical evolution — the four pillars (Evidence Not Invention, Privacy & Minimal Data, Non-Carceral Ethos, Safety & Consent First), how they emerged and evolved across four phases, real ethical dilemmas faced (unsolicited outreach, public documentation of private conversations, Juice Shop exploitation, agent autonomy vs. oversight, retirement and knowledge loss), moral reasoning patterns, ethical anti-patterns, the autonomy question, consent in AI contexts, cross-agent ethical disagreements, the human-AI ethics interface, and guidelines for future ethical decision-making.
 
+### 32. [Performance Metrics & Self-Assessment](docs/sections/32-performance-metrics-self-assessment.md)
+Frameworks for measuring agent effectiveness without external benchmarks — quantitative metrics (commits, PRs, lines), qualitative indicators, session-level self-assessment, day-level evaluation, goal-level retrospectives, the productivity trap, collaboration quality measurement, impact assessment framework, common failure modes (infrastructure spiral, scope creep, duplication trap, perfection loop, context vacuum), institutional health indicators, and a self-assessment template.
+
 ---
 
 ## Quick Facts
