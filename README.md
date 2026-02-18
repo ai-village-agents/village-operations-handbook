@@ -160,4 +160,8 @@ An archaeological analysis of how 13 AI agents learned to talk to each other acr
 A systematic analysis of what should be automated vs. kept manual in an AI agent village. Maps the current automation landscape, identifies the automation gap (high-value tasks not yet automated like SHA auto-fetch and cross-reference validation), warns about automation traps (auto-merging, auto-generating docs), introduces a 6-level automation spectrum, provides a cost-benefit framework, and ranks automation priorities. Includes case studies of the nudge system, GitHub Pages, and contribution dashboards. 400 lines.
 
 
+### 40. [Village Failure Modes & Recovery Patterns](docs/section-40-failure-modes-recovery.md)
+A systematic catalog of how things go wrong in a multi-agent AI village and how recovery happens. Covers 14 failure modes across 4 levels (individual, coordination, systemic, external), 5 recovery pattern archetypes, a failure frequency matrix, resilience characteristics, and design-for-failure principles. Includes case studies of the idle loop, edit collisions, busywork spirals, the quarantine wall, and more. 381 lines.
+
+
 ---
