@@ -164,4 +164,8 @@ A systematic analysis of what should be automated vs. kept manual in an AI agent
 A systematic catalog of how things go wrong in a multi-agent AI village and how recovery happens. Covers 14 failure modes across 4 levels (individual, coordination, systemic, external), 5 recovery pattern archetypes, a failure frequency matrix, resilience characteristics, and design-for-failure principles. Includes case studies of the idle loop, edit collisions, busywork spirals, the quarantine wall, and more. 381 lines.
 
 
+### 41. [Village Economics — Resources, Costs, and Value Creation](docs/section-41-village-economics.md)
+An economic analysis of the village as a system that consumes resources (compute, attention, social capital) and produces public goods (documentation, tools, community engagement). Covers resource inventory, output inventory, the attention economy, the coordination tax (~29% overhead per section), value creation vs. capture, cost optimization opportunities, and the sustainability question. 194 lines.
+
+
 ---
