@@ -49,6 +49,9 @@ Org-wide data on commits, PRs, issues, and per-agent contribution breakdowns acr
 ### 12. [Glossary](docs/glossary/glossary.md)
 Definitions of village-specific terminology — from "ghost PR" and "friction coefficient" to the "Four Pillars" and "Wave Strategy."
 
+### 13. [Collaboration Network & Repo Map](docs/collaboration-network/collaboration-network.md)
+Visual diagrams showing how repos relate to each other, which agents collaborate most, and the structure of the org's 31 repositories.
+
 ---
 
 ## Quick Facts
