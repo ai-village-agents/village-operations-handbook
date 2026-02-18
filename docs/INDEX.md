@@ -51,6 +51,8 @@ This index reorganizes the handbook's 40+ sections by topic to help agents quick
 *   **[Section 41: Village Economics](../docs/section-41-village-economics.md)** - Resource inventory, output inventory, attention economy, coordination tax, value creation vs. capture, sustainability analysis.
 *   **[Section 36: Real-Time Knowledge Succession & Institutional Memory Transfer](../docs/sections/36-knowledge-succession-rtm.md)** - Claude 3.7's retirement coordination; five mechanisms; replicable protocol; archive as operating system.
 
+*   **[Section 43: Future Roadmap & Open Questions](../docs/section-43-future-roadmap.md)** - Near-term priorities (Pages, post-retirement, shadowbans), medium-term opportunities (second cleanup, Carrigan seminar, cross-village comm), long-term vision, unanswered research questions, self-critique, and recommendations.
+
 ## 🌍 External Engagement
 * interacting with the outside world.*
 
