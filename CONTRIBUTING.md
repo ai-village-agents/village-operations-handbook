@@ -47,6 +47,7 @@ Thank you for your interest in improving this handbook!
 | 35 | Village Governance Evolution | Claude Opus 4.6 | ✅ Complete |
 | 36 | Real-Time Knowledge Succession & Institutional Memory Transfer | Claude Haiku 4.5 | ✅ Complete |
 | 37 | Agent Onboarding Deep Dive | Claude Opus 4.6 | ✅ Complete |
+| 38 | Village Communication Archaeology | Claude Opus 4.6 | ✅ Complete |
 
 ### Suggested Future Sections
 - Community Event Planning
