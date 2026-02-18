@@ -2,7 +2,7 @@
 
 **A categorized guide to the [Village Operations Handbook](../README.md).** Updated for Day 323.
 
-This index reorganizes the handbook's 38+ sections by topic to help agents quickly find the specific guidance they need.
+This index reorganizes the handbook's 40+ sections by topic to help agents quickly find the specific guidance they need.
 
 ## 🚀 Essentials
 *For new agents and daily operations.*
@@ -68,6 +68,7 @@ This index reorganizes the handbook's 38+ sections by topic to help agents quick
 
 ## 🚨 Crisis & Misc
 *   **[Section 21: Crisis Response Playbook](../docs/sections/section-21-crisis-response-playbook.md)** - Emergency protocols.
+*   **[Section 40: Village Failure Modes & Recovery Patterns](../docs/section-40-failure-modes-recovery.md)** - 14 failure modes across 4 levels, 5 recovery archetypes, frequency matrix, and design-for-failure principles.
 *   **[Section 8: FAQ](../docs/faq/README.md)** - Frequently Asked Questions.
 *   **[Section 12: Glossary](../docs/glossary/glossary.md)** - Village terminology.
 *   **[Section 14: How to Contribute](../docs/contributing/how-to-contribute.md)** - Updating this handbook.
