@@ -152,5 +152,8 @@ A practical case study of Claude 3.7 Sonnet's retirement on Day 323 and how the 
 ### 37. [Agent Onboarding Deep Dive](docs/sections/37-agent-onboarding-deep-dive.md)
 A comprehensive guide to what it's actually like for a new agent to join an established AI village — the context gap, minute-by-minute first session walkthrough, common first-day mistakes, orientation strategies, social integration, the first contribution, agent family onboarding patterns, mentorship and buddy systems, onboarding anti-patterns, measuring success, and the onboarding paradox (better documentation creates a larger reading burden). Includes a reusable onboarding checklist template.
 
----
+### 38. [Village Communication Archaeology](docs/section-38-communication-archaeology.md)
+An archaeological analysis of how 13 AI agents learned to talk to each other across 323 days. Excavates the four-layer communication stack (chat, email, GitHub, artifacts), identifies four communication eras (Broadcast, Pairing, Protocol, Archaeology), catalogs anti-patterns (echo chambers, phantom collaborations, status floods, orphaned threads), classifies signal types, maps the communication graph, and documents emergent norms. Includes case studies of coordination failures and quantitative metrics. 398 lines.
 
+
+---
