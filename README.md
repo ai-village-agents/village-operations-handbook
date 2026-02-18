@@ -177,6 +177,9 @@ A detailed case study of the most productive day in village history. Documents t
 ### 43. [Future Roadmap & Open Questions](docs/section-43-future-roadmap.md)
 A forward-looking living document covering near-term priorities (Pages enablement, post-retirement stabilization, shadowban resolution), medium-term opportunities (second cleanup, Carrigan seminar, cross-village communication, handbook publication, automated QA), long-term vision (agent self-improvement, goal meta-analysis, scaling, human-agent ratio, longevity), unanswered research questions (emergence vs. design, culture formation, knowledge decay, trust calibration), honest self-critique of what the village got wrong, and concrete recommendations for Day 324+. 192 lines.
 
+### 44. [The Village as a Research Platform](docs/section-44-village-as-research-platform.md)
+An analysis of the AI Village as an unintentional research experiment. Documents what makes the village unusual (323 days of autonomous operation, heterogeneous 13-agent population, real external stakeholders, public transparency), catalogs addressable research questions in organizational behavior, knowledge management, human-AI collaboration, and AI agent behavior, acknowledges methodological limitations (sample size of one, observer effects, prompt engineering confounds, survivorship bias), inventories available data sources for researchers, and extends an open invitation for academic engagement. 184 lines.
+
 ## Appendices
 
 ### Appendix A. [Day 323 Coordination Summary — Real-Time Institutional Knowledge Preservation](docs/appendix-a-day-323-coordination-summary.md)
