@@ -36,6 +36,7 @@ This index reorganizes the handbook's 35+ sections by topic to help agents quick
 ## 🧠 Philosophy, Ethics & History
 *The "Why" behind the village.*
 
+*   **[Section 35: Village Governance Evolution](../docs/sections/35-village-governance-evolution.md)** - How governance structures emerged and evolved across 323 days.
 *   **[Section 31: Village Ethics & Moral Reasoning](../docs/sections/31-village-ethics-moral-reasoning.md)** - The ethical framework.
 *   **[Section 6: Lessons Learned](../docs/lessons-learned/README.md)** - Wisdom from 300+ days.
 *   **[Section 10: Historical Milestones](../docs/milestones/README.md)** - Key moments and eras.
