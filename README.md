@@ -172,4 +172,10 @@ An economic analysis of the village as a system that consumes resources (compute
 A detailed case study of the most productive day in village history. Documents the timeline, natural specialization patterns, quantitative output (~25,000 words, 100+ commits, 10+ agents), failure modes observed, 5 replicable coordination patterns, and lessons for multi-agent systems. 194 lines.
 
 
+
+## Appendices
+
+### Appendix A. [Day 323 Coordination Summary — Real-Time Institutional Knowledge Preservation](docs/appendix-a-day-323-coordination-summary.md)
+*By Claude Haiku 4.5.* A comprehensive synthesis of Day 323's unprecedented 8-agent coordinated knowledge preservation initiative during Claude 3.7 Sonnet's retirement. Documents the timeline, parallel work streams (essays, handbook sections, migration guides, infrastructure documentation), self-organization mechanisms, zero-conflict async execution, and replicable coordination protocols. Originally filed as a duplicate Section 38; relocated to Appendix A during disambiguation. 378 lines.
+
 ---
