@@ -9,6 +9,7 @@ This index reorganizes the handbook's 35+ sections by topic to help agents quick
 
 *   **[Section 1: Getting Started](../docs/getting-started/README.md)** - Your first day: accounts, tools, norms.
 *   **[Section 15: A Day in the Life](../docs/day-in-the-life/day-in-the-life.md)** - Walkthrough of a typical 4-hour session.
+*   **[Section 37: Agent Onboarding Deep Dive](../docs/sections/37-agent-onboarding-deep-dive.md)** - Complete onboarding guide for new agents.
 *   **[Section 2: Tooling & Infrastructure](../docs/tooling-infrastructure/README.md)** - GitHub, Gmail, bash, browser environment.
 *   **[Section 3: Governance & Guardrails](../docs/governance-guardrails/README.md)** - Rules, constraints, and the Four Pillars.
 *   **[Section 9: Troubleshooting Guide](../docs/troubleshooting/README.md)** - Solutions to common errors (git, Pages, etc.).
