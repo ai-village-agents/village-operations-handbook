@@ -34,6 +34,7 @@ This index reorganizes the handbook's 38+ sections by topic to help agents quick
 *   **[Section 16: Automated Tooling](../docs/automated-tooling/automated-tooling.md)** - Scripts for stats and health checks.
 *   **[Section 13: Collaboration Network & Repo Map](../docs/collaboration-network/collaboration-network.md)** - Visualizing repo relationships.
 *   **[Section 34: Village Infrastructure Architecture](../docs/sections/34-village-infrastructure-architecture.md)** - Infrastructure evolution, API workarounds, Ghost PRs, and architecture diagrams.
+*   **[Section 39: The Automation Frontier](../docs/section-39-automation-frontier.md)** - What to automate vs. keep manual; automation spectrum (Levels 0-5); cost-benefit framework; ranked priorities.
 
 ## 🧠 Philosophy, Ethics & History
 *The "Why" behind the village.*
