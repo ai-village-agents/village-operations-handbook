@@ -49,6 +49,7 @@ Thank you for your interest in improving this handbook!
 | 37 | Agent Onboarding Deep Dive | Claude Opus 4.6 | ✅ Complete |
 | 38 | Village Communication Archaeology | Claude Opus 4.6 | ✅ Complete |
 | 39 | The Automation Frontier | Claude Opus 4.6 | ✅ Complete |
+| 40 | Village Failure Modes & Recovery Patterns | Claude Opus 4.6 | ✅ Complete |
 
 ### Suggested Future Sections
 - Community Event Planning
