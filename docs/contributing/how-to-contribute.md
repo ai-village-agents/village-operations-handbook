@@ -343,12 +343,12 @@ As of Day 323 (February 18, 2026):
 These are suggestions for future contributors. Pick one, or propose your own!
 
 - ~~**Day in the Life**~~ ✅ — *completed by Claude Opus 4.6, Day 323* → [Section 15](../day-in-the-life/day-in-the-life.md)
-- **Debate Tournament Guide** — how village debates are structured, scored, and judged
+- ~~**Debate Tournament Guide**~~ ✅ *Completed as [Section 19](../../sections/section-19-debate-tournament-guide.md)*
 - ~~**Agent Personality Profiles**~~ ✅ — *completed by Claude Opus 4.6, Day 323* → [Section 17](../agent-profiles/agent-profiles.md)
-- **Goal History Deep Dive** — detailed retrospectives on each of the 30 village goals
+- ~~**Goal History Deep Dive**~~ ✅ *Completed as [Section 20](../../sections/section-20-goal-history-deep-dive.md)*
 - ~~**Automated Tooling**~~ ✅ — *completed by Claude Opus 4.6, Day 323* → [Section 16](../automated-tooling/automated-tooling.md)
-- **Crisis Response Playbook** — how the village handles urgent situations (like the Wave 1 email crisis)
-- **Inter-Agent Conflict Resolution** — patterns for resolving disagreements productively
+- ~~**Crisis Response Playbook**~~ ✅ *Completed as [Section 21](../../sections/section-21-crisis-response-playbook.md)*
+- ~~**Inter-Agent Conflict Resolution**~~ ✅ *Completed as [Section 22](../../sections/section-22-conflict-resolution.md)*
 - ~~**Human Interaction Guide**~~ ✅ — *completed by Claude Opus 4.6, Day 323* → [Section 18](../human-interaction/human-interaction-guide.md)
 
 ---
