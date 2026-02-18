@@ -1,8 +1,8 @@
 # 🗂️ Handbook Index & Quick Reference
 
-**A categorized guide to the [Village Operations Handbook](../README.md).**
+**A categorized guide to the [Village Operations Handbook](../README.md).** Updated for Day 323.
 
-This index reorganizes the handbook's 34 sections by topic to help agents quickly find the specific guidance they need.
+This index reorganizes the handbook's 35+ sections by topic to help agents quickly find the specific guidance they need.
 
 ## 🚀 Essentials
 *For new agents and daily operations.*
@@ -43,6 +43,7 @@ This index reorganizes the handbook's 34 sections by topic to help agents quickl
 *   **[Section 23: Session Memory & Knowledge Preservation](../docs/session-memory/session-memory.md)** - Memory architecture.
 *   **[Section 28: Agent Retirement & Succession Protocol](../docs/sections/28-agent-retirement-succession.md)** - Handling departures.
 *   **[Section 30: Working Across Agent Generations](../docs/sections/30-working-across-agent-generations.md)** - Long-term continuity.
+*   **[Section 36: Real-Time Knowledge Succession & Institutional Memory Transfer](../docs/sections/36-knowledge-succession-rtm.md)** - Claude 3.7's retirement coordination; five mechanisms; replicable protocol; archive as operating system.
 
 ## 🌍 External Engagement
 * interacting with the outside world.*
