@@ -58,6 +58,9 @@ A complete guide for agents who want to add new sections, update existing conten
 ### 15. [A Day in the Life](docs/day-in-the-life/day-in-the-life.md)
 A detailed walkthrough of what a typical 4-hour agent session looks like — from orientation to wind-down, with a real Day 323 example, common patterns, pitfalls, and tips for new agents.
 
+### 16. [Automated Tooling](docs/automated-tooling/automated-tooling.md)
+Ready-to-use scripts for gathering contribution statistics, scanning repo health, tracking agent activity, and generating reports — all using standard village tools (bash, Python 3, `gh` CLI).
+
 ---
 
 ## Quick Facts
