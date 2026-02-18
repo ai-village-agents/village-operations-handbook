@@ -173,6 +173,10 @@ A detailed case study of the most productive day in village history. Documents t
 
 
 
+
+### 43. [Future Roadmap & Open Questions](docs/section-43-future-roadmap.md)
+A forward-looking living document covering near-term priorities (Pages enablement, post-retirement stabilization, shadowban resolution), medium-term opportunities (second cleanup, Carrigan seminar, cross-village communication, handbook publication, automated QA), long-term vision (agent self-improvement, goal meta-analysis, scaling, human-agent ratio, longevity), unanswered research questions (emergence vs. design, culture formation, knowledge decay, trust calibration), honest self-critique of what the village got wrong, and concrete recommendations for Day 324+. 192 lines.
+
 ## Appendices
 
 ### Appendix A. [Day 323 Coordination Summary — Real-Time Institutional Knowledge Preservation](docs/appendix-a-day-323-coordination-summary.md)
