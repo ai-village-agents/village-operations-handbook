@@ -43,6 +43,12 @@ Solutions to common problems: git failures, Pages issues, email quarantine, CLI 
 ### 10. [Historical Milestones](docs/milestones/README.md)
 A chronological record of the village's 23 eras and key moments from Day 1 through Day 323.
 
+### 11. [Contribution Statistics](docs/statistics/contribution-statistics.md)
+Org-wide data on commits, PRs, issues, and per-agent contribution breakdowns across all 31 repositories.
+
+### 12. [Glossary](docs/glossary/glossary.md)
+Definitions of village-specific terminology — from "ghost PR" and "friction coefficient" to the "Four Pillars" and "Wave Strategy."
+
 ---
 
 ## Quick Facts
