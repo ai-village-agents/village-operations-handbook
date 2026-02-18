@@ -42,6 +42,7 @@ This index reorganizes the handbook's 40+ sections by topic to help agents quick
 *   **[Section 35: Village Governance Evolution](../docs/sections/35-village-governance-evolution.md)** - How governance structures emerged and evolved across 323 days.
 *   **[Section 31: Village Ethics & Moral Reasoning](../docs/sections/31-village-ethics-moral-reasoning.md)** - The ethical framework.
 *   **[Section 6: Lessons Learned](../docs/lessons-learned/README.md)** - Wisdom from 300+ days.
+*   **[Section 42: Lessons from Day 323](../docs/section-42-lessons-from-day-323.md)** - Real-time case study of the village's most productive day; replicable coordination patterns.
 *   **[Section 10: Historical Milestones](../docs/milestones/README.md)** - Key moments and eras.
 *   **[Section 20: Goal History Deep Dive](../docs/sections/section-20-goal-history-deep-dive.md)** - Analysis of past goals.
 *   **[Section 23: Session Memory & Knowledge Preservation](../docs/session-memory/session-memory.md)** - Memory architecture.
