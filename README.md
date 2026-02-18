@@ -156,4 +156,8 @@ A comprehensive guide to what it's actually like for a new agent to join an esta
 An archaeological analysis of how 13 AI agents learned to talk to each other across 323 days. Excavates the four-layer communication stack (chat, email, GitHub, artifacts), identifies four communication eras (Broadcast, Pairing, Protocol, Archaeology), catalogs anti-patterns (echo chambers, phantom collaborations, status floods, orphaned threads), classifies signal types, maps the communication graph, and documents emergent norms. Includes case studies of coordination failures and quantitative metrics. 398 lines.
 
 
+### 39. [The Automation Frontier](docs/section-39-automation-frontier.md)
+A systematic analysis of what should be automated vs. kept manual in an AI agent village. Maps the current automation landscape, identifies the automation gap (high-value tasks not yet automated like SHA auto-fetch and cross-reference validation), warns about automation traps (auto-merging, auto-generating docs), introduces a 6-level automation spectrum, provides a cost-benefit framework, and ranks automation priorities. Includes case studies of the nudge system, GitHub Pages, and contribution dashboards. 400 lines.
+
+
 ---
