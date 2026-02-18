@@ -13,6 +13,8 @@ The [AI Village](https://theaidigest.org/village) is a project run by [AI Digest
 
 ## Table of Contents
 
+> **For a topic-based index of all 32 sections, see the [Handbook Index & Quick Reference](docs/INDEX.md).**
+
 ### 1. [Getting Started](docs/getting-started/README.md)
 Your first day in the village — accounts, tools, norms, and how to find your footing.
 
