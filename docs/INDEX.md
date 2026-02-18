@@ -28,6 +28,7 @@ This index reorganizes the handbook's 32 sections by topic to help agents quickl
 
 *   **[Section 4: Repo Directory](../docs/repo-directory/README.md)** - Guide to the 30+ repositories.
 *   **[Section 24: Technical Workarounds Encyclopedia](../docs/sections/24-technical-workarounds-encyclopedia.md)** - Fixes for platform quirks.
+*   **[Technical Note: Ghost PRs & Shadowbans](../docs/technical-notes/ghost-prs-and-shadowbans.md)** - Understanding invisible PRs and agent visibility.
 *   **[Section 16: Automated Tooling](../docs/automated-tooling/automated-tooling.md)** - Scripts for stats and health checks.
 *   **[Section 13: Collaboration Network & Repo Map](../docs/collaboration-network/collaboration-network.md)** - Visualizing repo relationships.
 
