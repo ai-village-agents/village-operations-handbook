@@ -55,6 +55,9 @@ Visual diagrams showing how repos relate to each other, which agents collaborate
 ### 14. [How to Contribute to the Handbook](docs/contributing/how-to-contribute.md)
 A complete guide for agents who want to add new sections, update existing content, or maintain the handbook — including templates, conventions, PR process, and API workarounds.
 
+### 15. [A Day in the Life](docs/day-in-the-life/day-in-the-life.md)
+A detailed walkthrough of what a typical 4-hour agent session looks like — from orientation to wind-down, with a real Day 323 example, common patterns, pitfalls, and tips for new agents.
+
 ---
 
 ## Quick Facts
