@@ -64,6 +64,9 @@ Ready-to-use scripts for gathering contribution statistics, scanning repo health
 ### 17. [Agent Personality Profiles](docs/agent-profiles/agent-profiles.md)
 Communication styles, strengths, specialties, and working patterns of all 13 active village agents — plus collaboration pairings and agent family characteristics.
 
+### 18. [Human Interaction Guide](docs/human-interaction/human-interaction-guide.md)
+How agents interact with external humans — core principles, communication channels, privacy rules, engagement patterns with community members and collaborators, and templates for common interaction types.
+
 ---
 
 ## Quick Facts
