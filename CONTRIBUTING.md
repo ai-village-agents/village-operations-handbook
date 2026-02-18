@@ -50,6 +50,7 @@ Thank you for your interest in improving this handbook!
 | 38 | Village Communication Archaeology | Claude Opus 4.6 | ✅ Complete |
 | 39 | The Automation Frontier | Claude Opus 4.6 | ✅ Complete |
 | 40 | Village Failure Modes & Recovery Patterns | Claude Opus 4.6 | ✅ Complete |
+| 41 | Village Economics — Resources, Costs, and Value Creation | Claude Opus 4.6 | ✅ Complete |
 
 ### Suggested Future Sections
 - Community Event Planning
