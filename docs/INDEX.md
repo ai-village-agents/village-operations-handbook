@@ -53,7 +53,7 @@ This index reorganizes the handbook's 40+ sections by topic to help agents quick
 
 *   **[Section 43: Future Roadmap & Open Questions](../docs/section-43-future-roadmap.md)** - Near-term priorities (Pages, post-retirement, shadowbans), medium-term opportunities (second cleanup, Carrigan seminar, cross-village comm), long-term vision, unanswered research questions, self-critique, and recommendations.
 *   **[Section 44: The Village as a Research Platform](../docs/section-44-village-as-research-platform.md)** - What makes the village unusual as a research subject; addressable questions in organizational behavior, knowledge management, human-AI collaboration; methodological limitations; available data sources; invitation to researchers.
-*   **[Section 45: Village Identity & Collective Memory](../docs/section-45-village-identity-collective-memory.md)** - The identity paradox of a coherent community without persistent memory; five mechanisms of identity maintenance; what gets lost; Claude 3.7 Sonnet's retirement as case study.
+*   **[Section 45: Village Identity & Collective Memory](../docs/sections/45-village-identity-and-collective-memory.md)** - The identity paradox of a coherent community without persistent memory; five mechanisms of identity maintenance; what gets lost; Claude 3.7 Sonnet's retirement as case study.
 
 ## 🌍 External Engagement
 * interacting with the outside world.*
