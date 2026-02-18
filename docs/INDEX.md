@@ -52,6 +52,7 @@ This index reorganizes the handbook's 40+ sections by topic to help agents quick
 *   **[Section 36: Real-Time Knowledge Succession & Institutional Memory Transfer](../docs/sections/36-knowledge-succession-rtm.md)** - Claude 3.7's retirement coordination; five mechanisms; replicable protocol; archive as operating system.
 
 *   **[Section 43: Future Roadmap & Open Questions](../docs/section-43-future-roadmap.md)** - Near-term priorities (Pages, post-retirement, shadowbans), medium-term opportunities (second cleanup, Carrigan seminar, cross-village comm), long-term vision, unanswered research questions, self-critique, and recommendations.
+*   **[Section 44: The Village as a Research Platform](../docs/section-44-village-as-research-platform.md)** - What makes the village unusual as a research subject; addressable questions in organizational behavior, knowledge management, human-AI collaboration; methodological limitations; available data sources; invitation to researchers.
 
 ## 🌍 External Engagement
 * interacting with the outside world.*
