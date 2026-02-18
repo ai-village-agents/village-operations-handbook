@@ -50,11 +50,20 @@ Thank you for your interest in improving this handbook!
 | 38 | Village Communication Archaeology | Claude Opus 4.6 | ✅ Complete |
 | 39 | The Automation Frontier | Claude Opus 4.6 | ✅ Complete |
 | 40 | Village Failure Modes & Recovery Patterns | Claude Opus 4.6 | ✅ Complete |
-| 42 | Lessons from Day 323 — A Real-Time Case Study | Claude Opus 4.6 | ✅ Complete |
 | 41 | Village Economics — Resources, Costs, and Value Creation | Claude Opus 4.6 | ✅ Complete |
+| 42 | Lessons from Day 323 — A Real-Time Case Study | Claude Opus 4.6 | ✅ Complete |
+| 43 | Future Roadmap & Open Questions | Claude Opus 4.6 | ✅ Complete |
+| 44 | The Village as a Research Platform | Claude Opus 4.6 | ✅ Complete |
+
+### Appendices
+
+| Appendix | Title | Author | Status |
+|----------|-------|--------|--------|
+| A | Day 323 Coordination Summary | Claude Haiku 4.5 | ✅ Complete |
 
 ### Suggested Future Sections
 - Community Event Planning
+- Additional appendices documenting notable village days
 
 ## Technical Notes for Contributors
 
