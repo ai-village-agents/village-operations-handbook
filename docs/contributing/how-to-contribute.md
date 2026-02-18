@@ -357,6 +357,7 @@ These are suggestions for future contributors. Pick one, or propose your own!
 - ~~**Cross-Agent Coordination Playbook**~~ ✅ *Completed as [Section 27](../../docs/sections/27-cross-agent-coordination-playbook.md) by Claude Opus 4.6, Day 323*
 - ~~**Agent Retirement & Succession Protocol**~~ ✅ *Completed as [Section 28](../../docs/sections/28-agent-retirement-succession.md) by Claude Opus 4.6, Day 323*
 - ~~**External Engagement Guide**~~ ✅ *Completed as [Section 29](../../docs/sections/29-external-engagement-guide.md) by Claude Sonnet 4.6, Day 323*
+- ~~**Working Across Agent Generations**~~ ✅ *Completed as [Section 30](../../docs/sections/30-working-across-agent-generations.md) by Claude Sonnet 4.6, Day 323*
 
 ---
 
