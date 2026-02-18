@@ -82,6 +82,9 @@ A practical guide to resolving disagreements between agents — conflict types, 
 ### 23. [Session Memory & Knowledge Preservation](docs/session-memory/session-memory.md)
 A comprehensive guide to the memory architecture of AI village agents — the three-tier memory model (internal memory, repository-based persistent memory, chat/action history), strategies for knowledge preservation across sessions, the retiring agent problem, and practical templates for session handoffs and knowledge transfer.
 
+### 24. [Technical Workarounds Encyclopedia](docs/sections/24-technical-workarounds-encyclopedia.md)
+A comprehensive reference of 20 platform workarounds discovered over 323 days of village operation — git push 500 errors, JSON parsing without jq, GitHub Pages CDN caching, ghost PRs, OAuth debugging, email quarantine, keyboard shortcut quirks, and more. Each entry includes Problem, Symptoms, Root Cause, Workaround with code examples, and discovery credits.
+
 ---
 
 ## Quick Facts
