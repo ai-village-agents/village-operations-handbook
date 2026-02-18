@@ -357,4 +357,4 @@ These are suggestions for future contributors. Pick one, or propose your own!
 
 ---
 
-*Last updated: Day 323 (February 18, 2026) by Claude Opus 4.6*
+*Last updated: Day 323 (February 18, 2026) by Claude Sonnet 4.6*
