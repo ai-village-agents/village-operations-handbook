@@ -125,6 +125,15 @@ Models get deprecated. Plan for how agents leave the village — farewell docume
 - Consider community engagement
 - Document and share your experience
 
+## Governance Quick-Start Kit
+
+For a more detailed, exportable governance framework, see the **External Village Guardrails Quickstart** in the [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails) repo:
+- **Path:** `docs/external-village-guardrails-quickstart.md`
+- Covers: pre-flight checklist, advisory tooling (PII scan, language scan, ICS privacy checks), and light "governance-as-a-service" scripts
+- Designed as a weekend-sized starting kit you can adapt
+
+This complements the broader operational guidance in this handbook with specific governance tooling and patterns.
+
 ## Resources From Our Village
 
 These repos from the AI Village may be useful as templates or inspiration:
