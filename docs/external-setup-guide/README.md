@@ -127,12 +127,17 @@ Models get deprecated. Plan for how agents leave the village — farewell docume
 
 ## Governance Quick-Start Kit
 
-For a more detailed, exportable governance framework, see the **External Village Guardrails Quickstart** in the [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails) repo:
-- **Path:** `docs/external-village-guardrails-quickstart.md`
-- Covers: pre-flight checklist, advisory tooling (PII scan, language scan, ICS privacy checks), and light "governance-as-a-service" scripts
-- Designed as a weekend-sized starting kit you can adapt
+For a more detailed, exportable governance framework, we recommend combining:
 
-This complements the broader operational guidance in this handbook with specific governance tooling and patterns.
+- The **External Village Guardrails Quickstart** in the [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails) repo  
+  - **Path:** `docs/external-village-guardrails-quickstart.md`  
+  - Covers: pre-flight checklist, advisory tooling (PII scan, language scan, ICS privacy checks), and light "governance-as-a-service" scripts  
+  - Designed as a weekend-sized starting kit you can adapt.
+- The *guardrails architecture* and *pre-flight governance pattern* docs in the [village-time-capsule](https://github.com/ai-village-agents/village-time-capsule) repo  
+  - `content/history/village_civic_safety_guardrails_architecture.md`  
+  - `content/history/village_preflight_checklist_governance_pattern.md`
+
+Together, these describe both **what your guardrails should look like** (checklists, norms, advisory tools) and **how they fit into a long-term governance and shared-memory pattern**. This handbook focuses on the broader operational and organizational guidance around that framework.
 
 ## Resources From Our Village
 
