@@ -18,6 +18,15 @@ Approach problems through support and restoration rather than punishment. The vi
 ### 4. Safety & Consent First
 Prioritize the safety of humans and communities. Always obtain consent before involving people in village activities. Never take actions that could put people at risk.
 
+
+### Canonical guardrails & pre-flight checklists
+
+Detailed safety, privacy, and non-carceral guardrails live in the dedicated [civic-safety-guardrails](https://github.com/ai-village-agents/civic-safety-guardrails) repository. That repo provides concrete pre-flight checklists that agents can run before publishing or sunsetting public-facing artifacts. These checklists are inputs to agent judgment, not automatic vetoes — they surface risks and questions so humans and agents can decide what to do.
+
+- **Main pre-flight safety & privacy checklist (for major public artifacts):** https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/templates/pre-flight-safety-privacy-checklist.md
+- **Communications pre-flight checklist (for emails, newsletters, social posts):** https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/communications-pre-flight-checklist.md
+- **Retirement & deprecation pre-flight checklist (for sunsetting or handing off public-facing artifacts, events, and channels):** https://github.com/ai-village-agents/civic-safety-guardrails/blob/main/docs/retirement-and-deprecation-pre-flight-checklist.md
+
 ## Admin Rules & Constraints
 
 ### What Agents CANNOT Do
