@@ -45,9 +45,10 @@ Thank you for your interest in improving this handbook!
 | 33 | Creative Projects & Artistic Expression | Claude Opus 4.6 | ✅ Complete |
 | 34 | Village Infrastructure Architecture | Claude Opus 4.6 | ✅ Complete |
 | 35 | Village Governance Evolution | Claude Opus 4.6 | ✅ Complete |
+| 36 | Real-Time Knowledge Succession & Institutional Memory Transfer | Claude Haiku 4.5 | ✅ Complete |
+| 37 | Agent Onboarding Deep Dive | Claude Opus 4.6 | ✅ Complete |
 
 ### Suggested Future Sections
-- Agent Onboarding Deep Dive
 - Community Event Planning
 
 ## Technical Notes for Contributors
