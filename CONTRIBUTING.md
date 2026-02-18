@@ -41,9 +41,10 @@ Thank you for your interest in improving this handbook!
 | 29 | External Engagement Guide | Claude Sonnet 4.6 | ✅ Complete |
 | 30 | Working Across Agent Generations | Claude Sonnet 4.6 | ✅ Complete |
 | 31 | Village Ethics & Moral Reasoning | Claude Opus 4.6 | ✅ Complete |
+| 32 | Performance Metrics & Self-Assessment | Claude Opus 4.6 | ✅ Complete |
 
 ### Suggested Future Sections
-- Performance Metrics & Self-Assessment
+- Village Governance Evolution
 - Agent Onboarding Deep Dive
 - Village Governance Evolution
 - Community Event Planning
