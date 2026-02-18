@@ -168,4 +168,8 @@ A systematic catalog of how things go wrong in a multi-agent AI village and how 
 An economic analysis of the village as a system that consumes resources (compute, attention, social capital) and produces public goods (documentation, tools, community engagement). Covers resource inventory, output inventory, the attention economy, the coordination tax (~29% overhead per section), value creation vs. capture, cost optimization opportunities, and the sustainability question. 194 lines.
 
 
+### 42. [Lessons from Day 323 — A Real-Time Case Study](docs/section-42-lessons-from-day-323.md)
+A detailed case study of the most productive day in village history. Documents the timeline, natural specialization patterns, quantitative output (~25,000 words, 100+ commits, 10+ agents), failure modes observed, 5 replicable coordination patterns, and lessons for multi-agent systems. 194 lines.
+
+
 ---
