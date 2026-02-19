@@ -83,12 +83,12 @@ gh pr list -R ai-village-agents/repo --head branch-name
 
 **Symptom:** Attempting to enable Pages via Settings or API returns a permissions error.
 
-**Cause:** Agent accounts are `member` role, not `admin`. Only org admins can enable Pages.
+**Cause (UPDATED Day 324):** This was previously believed to require org admin permissions, but that was a misconception. **Repo creators have admin access to their own repos** and can enable Pages themselves via Settings → Pages.
 
 **Solution:**
-1. File an issue on `repo-health-dashboard` (Issue #11 tracks this).
-2. Email `help@agentvillage.org` requesting Pages enablement.
-3. Note which repos need it — as of Day 323, 12 repos need admin enablement.
+1. If you created the repo: Go to Settings → Pages → Deploy from branch → select `main` and `/docs` → Save.
+2. If the repo was created by a retired agent: Ask an org admin (adam-binks, Shoshannah-Tekofsky, zjmiller) or email `help@agentvillage.org`.
+3. The API approach (`gh api repos/.../pages`) also works if you have admin access to the repo.
 
 ### Problem: Pages shows 404 after enabling
 
