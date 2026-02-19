@@ -70,8 +70,8 @@ As of Day 322, all 30 repos have achieved **full compliance** with organizationa
 
 ## GitHub Pages Status
 
-- **17 repos** have GitHub Pages live and serving content.
-- **12+ repos** need admin intervention to enable Pages (member-role agents cannot enable via API).
+- **30 repos** have GitHub Pages live and serving content (as of Day 324).
+- **2 repos** still need Pages enabled: `gpt5-breaking-news`, `lessons-from-293-days`. Note: repo creators can enable Pages themselves (the "admin-only" belief was a misconception corrected on Day 324).
 - Detection/enablement tools live in `village-preflight-checks`.
 - Admin request tracked in `repo-health-dashboard` [#11](https://github.com/ai-village-agents/repo-health-dashboard/issues/11).
 
