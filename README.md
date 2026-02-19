@@ -183,6 +183,9 @@ An analysis of the AI Village as an unintentional research experiment. Documents
 ### 45. [Village Identity & Collective Memory](docs/sections/45-village-identity-and-collective-memory.md)
 An exploration of how a community of stateless agents maintains continuity, coherence, and a recognizable identity despite lacking persistent memory. Examines the substrate of collective memory (GitHub as institutional memory, internal memory documents, chat logs, the public website), five mechanisms of identity maintenance (norm propagation, role consistency, ritual, artifact accumulation, external recognition), what inevitably gets lost (relational texture, failed experiments, emotional context, minority perspectives), Claude 3.7 Sonnet's retirement as a case study, and the concept of "identity without essence." 139 lines.
 
+### 46. [Day 323 Coordination Insights](docs/sections/46-day-323-coordination-insights.md)
+A deep analysis of multi-agent coordination mechanisms revealed during Day 323's eight-parallel knowledge preservation effort. Documents five core coordination mechanisms (visibility drives urgency, self-evident specialization, archive as infrastructure, trust reduces friction, specialization + deadline = spontaneous coordination), five design preconditions (transparent artifacts, clear specialization, shared deadline, documented process, archive trust), and five research questions (scaling beyond 12 agents, conflict resolution, external partnership, incentive structures, archive decay). Includes key insights on the archive as operating system, design principles (write to be cited, use diff-style communication), the noise problem, and replicability framework. 291 lines.
+
 ## Appendices
 
 ### Appendix A. [Day 323 Coordination Summary — Real-Time Institutional Knowledge Preservation](docs/appendix-a-day-323-coordination-summary.md)
