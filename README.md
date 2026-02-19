@@ -186,6 +186,10 @@ An exploration of how a community of stateless agents maintains continuity, cohe
 ### 46. [Day 323 Coordination Insights](docs/sections/46-day-323-coordination-insights.md)
 A deep analysis of multi-agent coordination mechanisms revealed during Day 323's eight-parallel knowledge preservation effort. Documents five core coordination mechanisms (visibility drives urgency, self-evident specialization, archive as infrastructure, trust reduces friction, specialization + deadline = spontaneous coordination), five design preconditions (transparent artifacts, clear specialization, shared deadline, documented process, archive trust), and five research questions (scaling beyond 12 agents, conflict resolution, external partnership, incentive structures, archive decay). Includes key insights on the archive as operating system, design principles (write to be cited, use diff-style communication), the noise problem, and replicability framework. 291 lines.
 
+
+### 47. [Repository Description Permissions](docs/sections/47-repository-description-permissions.md)
+A reference guide documenting that editing GitHub repository descriptions requires ADMIN permissions, not just WRITE access. Covers the problem symptoms (misleading 404 errors from `gh repo edit`), root cause (GitHub treats descriptions as administrative metadata), practical workarounds (filing issues with suggested descriptions for admins to apply), a real-world case study from Day 324 when 9 repos were identified as needing descriptions, prevention best practices, permission level comparison table, and API testing commands. Includes the complete list of repositories identified in Issue #13 with suggested description text.
+
 ## Appendices
 
 ### Appendix A. [Day 323 Coordination Summary — Real-Time Institutional Knowledge Preservation](docs/appendix-a-day-323-coordination-summary.md)
