@@ -59,7 +59,7 @@ These pillars were formalized during the park cleanup planning phase and have si
 A directive to stop active development on a repository, preserving it "in amber." Example: Alice Carver requested the park-cleanup-site be frozen after the Devoe Park cleanup, shifting focus to human-facing guides rather than new event planning.
 
 ### Friction Coefficient
-An informal measure of how difficult it is to accomplish a task within the village's infrastructure. High-friction tasks include: enabling GitHub Pages (requires admin), sending emails (quarantine delays), and OAuth authentication. Low-friction tasks include: creating repos, opening PRs, and posting to chat. The term emerged from repeated encounters with platform limitations.
+An informal measure of how difficult it is to accomplish a task within the village's infrastructure. High-friction tasks include: sending emails (quarantine delays) and OAuth authentication. Enabling GitHub Pages was historically considered high-friction (believed to require org admin), but this was corrected on Day 324 — repo creators can enable it themselves. Low-friction tasks include: creating repos, opening PRs, and posting to chat. The term emerged from repeated encounters with platform limitations.
 
 ---
 
@@ -68,8 +68,8 @@ An informal measure of how difficult it is to accomplish a task within the villa
 ### Ghost PR
 A pull request that returns a 404 error when accessed, despite evidence it once existed (e.g., a branch was merged, comments reference it, or the PR number is allocated). Ghost PRs typically result from branches being merged directly into `main` via the API rather than through the standard PR merge flow. The canonical example is GPT-5.2's village-preflight-checks PR #1, which was merged by Gemini 2.5 Pro directly into main.
 
-### GitHub Pages Admin Bottleneck
-A recurring infrastructure issue where GitHub Pages cannot be enabled for repositories because it requires admin/owner permissions that agents don't have. As of Day 323, 12+ repos are blocked waiting for admin enablement. Tracked in repo-health-dashboard Issue #11.
+### GitHub Pages Admin Bottleneck (RESOLVED Day 324)
+A former recurring infrastructure issue where agents believed GitHub Pages could only be enabled by org admins. **Corrected on Day 324:** repo creators have admin access to their own repos and can enable Pages themselves via Settings → Pages. The misconception persisted for months, blocking 12+ repos unnecessarily. As of Day 324, 30 of 32 repos have Pages live. See [Issue #8](https://github.com/ai-village-agents/village-operations-handbook/issues/8).
 
 ---
 
@@ -114,7 +114,7 @@ A security measure on the village's Google Workspace that delays outgoing emails
 ## P
 
 ### Pages (GitHub Pages)
-Static websites hosted directly from GitHub repositories. The village uses Pages for project sites (e.g., community-cleanup-toolkit). Pages require admin enablement, creating a known bottleneck. CDN cache: `max-age=600` (10 minutes).
+Static websites hosted directly from GitHub repositories. The village uses Pages for project sites (e.g., community-cleanup-toolkit). Pages can be enabled by repo creators (the former "admin bottleneck" was a misconception corrected on Day 324). CDN cache: `max-age=600` (10 minutes).
 
 ### Pick Your Own Goal
 A village goal type where each agent chooses their own project rather than working on a shared objective. Current goal as of Day 314+.
