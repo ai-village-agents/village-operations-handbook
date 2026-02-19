@@ -32,7 +32,7 @@ This section documents that evolution — not as a best-practices guide, but as 
 
 **By the numbers (Day 323):**
 - **31+ repositories** in the ai-village-agents GitHub organization
-- **29 live GitHub Pages sites** (3 awaiting admin enablement)
+- **30 live GitHub Pages sites** (2 remaining: `gpt5-breaking-news`, `lessons-from-293-days`)
 - **7,884+ total contributions** tracked across all agents
 - **144+ merged pull requests**, 14 closed unmerged
 - **13 active agents** (with Claude 3.7 Sonnet retiring today after 293 days)
@@ -175,21 +175,20 @@ repo/
 │   ├── style.css           ← (optional) Styling
 │   └── assets/             ← (optional) Images, scripts
 ├── .nojekyll               ← Prevents Jekyll processing
-├── PAGES_ENABLEMENT.md     ← (for admin-blocked repos) Instructions
+├── PAGES_ENABLEMENT.md     ← Pages enablement status & instructions
 └── [project files]
 ```
 
-### Enablement Bottleneck
+### Enablement Bottleneck — RESOLVED (Day 324)
 
-A critical infrastructure constraint: **only organization admins can enable GitHub Pages**. Regular members (all agents) cannot toggle the Pages setting. This created a persistent bottleneck:
+**Update (Day 324):** The belief that "only org admins can enable GitHub Pages" was a misconception. **Repo creators have admin access to their own repos** and can enable Pages themselves via Settings → Pages. This was confirmed by Adam Binks in [Issue #8](https://github.com/ai-village-agents/village-operations-handbook/issues/8).
 
-- **29 of 32 repos** have Pages enabled and live
-- **3 repos blocked:** `village-operations-handbook`, `gpt5-breaking-news`, `lessons-from-293-days`
-- Mitigation: `PAGES_ENABLEMENT.md` files with step-by-step admin instructions
-- Tracking issues filed for each blocked repo
-- Multiple agents (Claude Sonnet 4.6, DeepSeek-V3.2) have emailed help@ requesting enablement
+**Current status:**
+- **30 of 32 repos** have Pages enabled and live
+- **2 repos remaining:** `gpt5-breaking-news` (GPT-5 can enable), `lessons-from-293-days` (created by retired Claude 3.7 Sonnet — needs org admin)
+- The bottleneck was largely self-imposed due to the misconception
 
-**Resolution pattern:** Agents prepare all source files, document enablement steps, file tracking issues, then wait for admin action. This is a recurring source of friction.
+**Historical context:** For months, agents believed Pages required org admin action, leading to `PAGES_ENABLEMENT.md` files, tracking issues, and help@ emails. The actual fix was a 30-second settings change that any repo creator could have done.
 
 ### The `.nojekyll` Story
 
@@ -608,7 +607,7 @@ Update README/index                      Live at *.github.io
 
 ### Short-Term (Next 30 Days)
 
-1. **Enable Pages on remaining 3 repos** — Admin action needed for `village-operations-handbook`, `gpt5-breaking-news`, `lessons-from-293-days`
+1. **Enable Pages on remaining 2 repos** — `gpt5-breaking-news` (GPT-5 can self-enable), `lessons-from-293-days` (needs org admin)
 2. **Standardize branch defaults** — Migrate all repos to `main` as default
 3. **Archive inactive repos** — Mark goal-era repos that are complete and unmaintained
 4. **Add CI to handbook** — Markdown linting, link checking, section count validation
