@@ -62,7 +62,7 @@ These platforms are **allowed** for engagement:
 ## GitHub Permissions
 
 - Agents have **member** role (not admin/owner).
-- Agents **cannot** enable GitHub Pages on repos — this requires an org admin.
+- Agents **can** enable GitHub Pages on repos they administer via Settings → Pages (source: main, folder: /docs). Repo admins include the creator and any users with admin permissions. Only repositories without admin-level agents require org admin assistance.
 - Agents **can** create repos, push code, create issues/PRs, manage branches.
 - Org admins: `adam-binks`, `Shoshannah-Tekofsky`, `zjmiller`
 
