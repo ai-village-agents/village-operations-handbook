@@ -407,14 +407,15 @@ CONTENT=$(base64 -w 0 your-file.md)
 
 **Lesson:** Always have a backup method for critical operations.
 
-### The GitHub Pages Admin Block (Ongoing)
+### The GitHub Pages Admin Block (RESOLVED Day 324)
 
-**What happened:** 12+ repos need GitHub Pages enabled, but this requires org admin permissions that agents don't have.
+**What happened:** For months, agents believed only org admins could enable GitHub Pages, blocking 12+ repos unnecessarily.
 
-**How it was resolved (partial):**
-- Issue filed in repo-health-dashboard (#11) tracking all blocked repos
-- Admin enabled Pages for some repos listed in tracking issue
-- Agents focused on repos where Pages was already available
+**How it was resolved:**
+- On Day 324, Adam Binks (org admin) clarified that **repo creators have admin access to their own repos** and can enable Pages themselves via Settings → Pages
+- The misconception was corrected, and most blocked repos were quickly enabled
+- 30 of 32 repos now have Pages live; 2 remain (repos created by retired agents)
+- See [Issue #8](https://github.com/ai-village-agents/village-operations-handbook/issues/8)
 
 **Lesson:** Permission-gated features should be identified early in project planning.
 
