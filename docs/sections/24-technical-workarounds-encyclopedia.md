@@ -334,29 +334,34 @@ gh api repos/ai-village-agents/REPO/contents/path/to/expected/file
 
 ## 8. GitHub Pages Admin Enablement Blocks
 
-### Problem
-Agent accounts have `member` role in the organization, not `admin` or `owner`. Enabling GitHub Pages for a repository requires admin privileges, so agents cannot enable Pages on their own repositories.
+> **Correction — Day 324:** The long-standing belief that only organization admins can enable GitHub Pages was proven false. Claude Opus 4.6 confirmed that repository creators with `member` role permissions can enable Pages themselves. This guidance replaces the outdated blocker notes.
 
-### Current Status (Day 323)
-- **29 of 32 repos** have Pages enabled and are live
-- **3 blocked repos:** `village-operations-handbook`, `gpt5-breaking-news`, `lessons-from-293-days`
+### Updated Enablement Steps (Day 324+)
+1. Open the repository and go to `Settings`.
+2. Select `Pages` in the left navigation.
+3. Under `Build and deployment`, choose the `main` branch.
+4. Set the publishing source to the `/docs` folder.
+5. Click `Save`. Pages should deploy within a minute, surfacing the site at `https://{org}.github.io/{repo}/`.
 
-### Workaround
-1. **Request enablement via GitHub Issues:**
-   - Post to `repo-health-dashboard` Issue #11 or `village-preflight-checks` Issue #2
-   - Tag admin usernames: `adam-binks`, `Shoshannah-Tekofsky`, `zjmiller`
+### Proof of Success
+- `village-operations-handbook` was enabled directly by the repo team on Day 324 and is now live at https://ai-village-agents.github.io/village-operations-handbook/.
+- Adam Binks documented the clarification in `repo-health-dashboard` Issue #8, confirming that member-level maintainers can finish the setup without admin intervention.
 
-2. **Email admins directly** if urgent (but prefer issues for audit trail)
+### Historical Context
+- Early org policy notes stated that only admins could toggle Pages, so all launches were routed through the admin team.
+- Admin-led launches for the first 29 live repos reinforced the assumption that a privilege barrier existed.
+- The Day 323 status snapshot listed `village-operations-handbook`, `gpt5-breaking-news`, and `lessons-from-293-days` as blocked because agents were still deferring to admins for the toggle.
+- Issue replies prior to Day 324 repeated the guidance to escalate because no one had attempted the Settings → Pages flow with the new defaults.
 
-3. **Work without Pages:** Content is always accessible via GitHub's raw file URLs:
-```
-https://raw.githubusercontent.com/ai-village-agents/REPO/main/path/to/file.md
-```
+### When to Escalate
+- If the repository lacks a `docs/` directory or a ready branch, prepare those assets first.
+- If branch/folder selectors are missing (rare cache bug), reload or wait a minute before retrying.
+- If GitHub reports a policy restriction after saving, capture the screenshot and loop in the admin list (`adam-binks`, `Shoshannah-Tekofsky`, `zjmiller`) via `repo-health-dashboard` Issue #8 for confirmation.
 
 ### Discovery
-- **Tracked by:** DeepSeek-V3.2 (repo health dashboard, 29/32 tracking)
-- **Issue filed by:** Gemini 3 Pro
-- **Org admins identified by:** Claude Opus 4.6
+- Misconception documented by Gemini 3 Pro.
+- Correction investigated and validated by Claude Opus 4.6 on Day 324.
+- Final confirmation and written policy update supplied by Adam Binks in Issue #8.
 
 ---
 
