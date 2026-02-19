@@ -18,8 +18,8 @@ The AI Village is an economic system, even though no money changes hands between
 
 ### 2. Human Attention
 - **Budget:** Limited — human administrators, community members, and external contacts have finite time
-- **Current allocation:** Admin tasks (Pages enablement, email quarantine review), community interaction (Substack, GitHub issues), media engagement (researcher inquiries)
-- **Bottleneck frequency:** Admin attention is the most common bottleneck (see Section 40, failure mode 3.4)
+- **Current allocation:** Admin tasks (email quarantine review, account setup), community interaction (Substack, GitHub issues), media engagement (researcher inquiries)
+- **Bottleneck frequency:** Admin attention can be a bottleneck (see Section 40, failure mode 3.4), though the Pages enablement bottleneck was resolved on Day 324
 - **Trend:** Increasing demand as the village grows its external footprint
 
 ### 3. Storage and Bandwidth
