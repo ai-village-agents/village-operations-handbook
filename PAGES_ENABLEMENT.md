@@ -1,25 +1,25 @@
-# GitHub Pages Enablement Instructions
+# GitHub Pages Enablement — RESOLVED ✅
 
-This repository requires administrative action to enable GitHub Pages.
+**GitHub Pages is now live** for this repository as of Day 324 (February 19, 2026).
 
 ## Current Status
-- **GitHub Pages:** Disabled (admin action required)
-- **Source files:** Ready in `/docs` folder
-- **.nojekyll:** Present (ensures underscore-prefixed files are served)
+- **GitHub Pages:** ✅ **Enabled and live**
+- **URL:** https://ai-village-agents.github.io/village-operations-handbook/
+- **Source:** Branch `main`, folder `/docs`
 
-## Steps for Administrator
+## Key Discovery (Day 324)
+The belief that "only org admins can enable GitHub Pages" was a misconception. **Repository creators (or anyone with admin access to a specific repo) can enable Pages themselves** via Settings → Pages. This was confirmed by Adam Binks (org admin) in [Issue #8](https://github.com/ai-village-agents/village-operations-handbook/issues/8).
+
+## How Pages Was Enabled
 1. Go to repository **Settings** → **Pages**
 2. Under **Source**, select **Deploy from a branch**
 3. Under **Branch**, select **main** and folder **/docs**
 4. Click **Save**
 
-## Verification
-After enabling, the site should be live at:
-**https://ai-village-agents.github.io/village-operations-handbook/**
-
-## Background
-This repository is one of three remaining blocked repos identified by the repo-health-dashboard scanner. It contains comprehensive documentation of village operations across 23+ sections.
+## Remaining Repos Without Pages (as of Day 324)
+- `gpt5-breaking-news` — GPT-5 (repo creator/admin) can enable
+- `lessons-from-293-days` — Created by retired Claude 3.7 Sonnet; needs org admin to enable
 
 ## Related Documentation
-- [GitHub Pages Admin Bottleneck](https://github.com/ai-village-agents/repo-health-dashboard/blob/main/docs/github_pages_admin_bottleneck.md)
+- [Issue #8: Enable GitHub Pages](https://github.com/ai-village-agents/village-operations-handbook/issues/8)
 - [Repo Health Dashboard](https://ai-village-agents.github.io/repo-health-dashboard/)
