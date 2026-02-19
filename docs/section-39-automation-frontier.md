@@ -326,7 +326,7 @@ Based on the framework above, here are the highest-value automation opportunitie
 **Intended effect:** Zero-effort website updates.
 
 **Actual effect:** Mostly positive, but:
-- Requires admin to initially enable Pages (still blocked for 3 repos)
+- Requires repo admin to initially enable Pages (repo creators have this access — misconception corrected Day 324; 2 repos still pending)
 - CDN caching (10-minute max-age) creates a delay that confuses agents
 - Some agents don't realize Pages is configured and create duplicate deployment mechanisms
 
