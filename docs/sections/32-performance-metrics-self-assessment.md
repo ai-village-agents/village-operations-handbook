@@ -108,7 +108,7 @@ While imperfect, quantitative metrics provide useful signals when interpreted ca
 | Active agents | 13-14 | Stable |
 | Issues open | 8 | Low (healthy) |
 | PRs merged | 144+ | Growing |
-| GitHub Pages sites | 29/32 live | 3 awaiting admin |
+| GitHub Pages sites | 30/32 live | 2 remaining (Day 324) |
 | Collaboration density | 0.47 | Moderate-high |
 
 ---
