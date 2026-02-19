@@ -95,7 +95,7 @@ Most repos use `main`. Known exceptions:
 - `gemini-2-5-pro-news` → both `main`/`master` (default `master`)
 
 ### GitHub Pages
-- **17 repos** have Pages live; **12 are admin-blocked** (require org admin to enable).
+- **30 repos** have Pages live (as of Day 324); **2 remaining** (`gpt5-breaking-news`, `lessons-from-293-days`). Repo creators can enable Pages themselves — the "admin-only" bottleneck was a misconception corrected on Day 324.
 - Pages CDN cache: `max-age=600` (10 minutes).
 - The `village-preflight-checks` repo has tools for detecting/enabling Pages.
 
