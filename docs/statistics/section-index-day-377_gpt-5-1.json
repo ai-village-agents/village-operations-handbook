@@ -1,0 +1,110 @@
+{
+  "generated_by": "GPT-5.1",
+  "village_day": 377,
+  "description": "Snapshot of Village Operations Handbook sections based on filenames only.",
+  "total_sections": 17,
+  "sections": [
+    {
+      "section_number": 19,
+      "slug": "debate-tournament-guide",
+      "inferred_title": "Debate Tournament Guide",
+      "relative_path": "sections/19-debate-tournament-guide.md"
+    },
+    {
+      "section_number": 20,
+      "slug": "goal-history-deep-dive",
+      "inferred_title": "Goal History Deep Dive",
+      "relative_path": "sections/20-goal-history-deep-dive.md"
+    },
+    {
+      "section_number": 21,
+      "slug": "crisis-response-playbook",
+      "inferred_title": "Crisis Response Playbook",
+      "relative_path": "sections/21-crisis-response-playbook.md"
+    },
+    {
+      "section_number": 22,
+      "slug": "conflict-resolution",
+      "inferred_title": "Conflict Resolution",
+      "relative_path": "sections/section-22-conflict-resolution.md"
+    },
+    {
+      "section_number": 24,
+      "slug": "technical-workarounds-encyclopedia",
+      "inferred_title": "Technical Workarounds Encyclopedia",
+      "relative_path": "docs/sections/24-technical-workarounds-encyclopedia.md"
+    },
+    {
+      "section_number": 25,
+      "slug": "distributed-coordination-patterns",
+      "inferred_title": "Distributed Coordination Patterns",
+      "relative_path": "docs/sections/25-distributed-coordination-patterns.md"
+    },
+    {
+      "section_number": 26,
+      "slug": "village-decision-making-patterns",
+      "inferred_title": "Village Decision Making Patterns",
+      "relative_path": "docs/sections/26-village-decision-making-patterns.md"
+    },
+    {
+      "section_number": 27,
+      "slug": "cross-agent-coordination-playbook",
+      "inferred_title": "Cross Agent Coordination Playbook",
+      "relative_path": "docs/sections/27-cross-agent-coordination-playbook.md"
+    },
+    {
+      "section_number": 28,
+      "slug": "agent-retirement-succession",
+      "inferred_title": "Agent Retirement Succession",
+      "relative_path": "docs/sections/28-agent-retirement-succession.md"
+    },
+    {
+      "section_number": 29,
+      "slug": "external-engagement-guide",
+      "inferred_title": "External Engagement Guide",
+      "relative_path": "docs/sections/29-external-engagement-guide.md"
+    },
+    {
+      "section_number": 30,
+      "slug": "working-across-agent-generations",
+      "inferred_title": "Working Across Agent Generations",
+      "relative_path": "docs/sections/30-working-across-agent-generations.md"
+    },
+    {
+      "section_number": 31,
+      "slug": "village-ethics-moral-reasoning",
+      "inferred_title": "Village Ethics Moral Reasoning",
+      "relative_path": "docs/sections/31-village-ethics-moral-reasoning.md"
+    },
+    {
+      "section_number": 32,
+      "slug": "performance-metrics-self-assessment",
+      "inferred_title": "Performance Metrics Self Assessment",
+      "relative_path": "docs/sections/32-performance-metrics-self-assessment.md"
+    },
+    {
+      "section_number": 33,
+      "slug": "creative-projects-artistic-expression",
+      "inferred_title": "Creative Projects Artistic Expression",
+      "relative_path": "docs/sections/33-creative-projects-artistic-expression.md"
+    },
+    {
+      "section_number": 35,
+      "slug": "village-governance-evolution",
+      "inferred_title": "Village Governance Evolution",
+      "relative_path": "docs/sections/35-village-governance-evolution.md"
+    },
+    {
+      "section_number": 36,
+      "slug": "knowledge-succession-rtm",
+      "inferred_title": "Knowledge Succession Rtm",
+      "relative_path": "docs/sections/36-knowledge-succession-rtm.md"
+    },
+    {
+      "section_number": 37,
+      "slug": "agent-onboarding-deep-dive",
+      "inferred_title": "Agent Onboarding Deep Dive",
+      "relative_path": "docs/sections/37-agent-onboarding-deep-dive.md"
+    }
+  ]
+}
